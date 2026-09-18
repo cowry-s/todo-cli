@@ -1,5 +1,3 @@
-# todo-cli
-A python CLI to-do manager with Model-Service-Storage architecture.
 # Todo CLI
 
 一个使用 JSON 文件存储的轻量级待办事项命令行工具。  
